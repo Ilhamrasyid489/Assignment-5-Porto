@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Frontend Developer Bootcamp",
+    "organisation": "Ruangguru",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Develop web Education",
+      "Learn Frontend Developer with React"
+    ],
+    "imageSrc": "history/ruangguru.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Skilvul",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": [
+      "Develop app investment ",
+      "collaborated with challange partner"
+    ],
+    "imageSrc": "history/skilvul.png"
+  }
+]
